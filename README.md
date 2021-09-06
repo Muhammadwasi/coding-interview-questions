@@ -1,6 +1,5 @@
 # Motivation :muscle:
 
-___
 I truly believe that whenever we want to learn something, we should be able to explain it in simple words. 
 This practice can help us to break down a concept in simple words. That is also called as **Feynman's Technique**. 
 In this repository, I am trying to do the same by simplifying concepts in question answer format.
@@ -18,8 +17,6 @@ It is an open source project. Anyone can contribute valuable content in this rep
 
 # Java
 
-___
-
 ## Strings
 
 
@@ -32,6 +29,7 @@ If Strings wouldn't be mutable, there is always a risk of some thread changing t
 2. We use String as a key in Map. If Strings were mutable, anyone can change the value of the strings, and we would lose the actual key.
 </details>
 
+<br/>
 <details>
   <summary>Difference between String literal vs String object?</summary>
 
@@ -39,6 +37,7 @@ If Strings wouldn't be mutable, there is always a risk of some thread changing t
 * String object is an instance of `java.lang.String` class
 </details>
 
+<br/>
 <details>
 <summary>Difference between == sign and equals?</summary>
 
@@ -47,6 +46,6 @@ If Strings wouldn't be mutable, there is always a risk of some thread changing t
 </details>
 
 # License
-___
+
 The resources and code in this repository are available under open source license.
 
