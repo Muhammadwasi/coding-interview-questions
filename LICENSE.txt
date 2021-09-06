@@ -1,0 +1,7 @@
+The resources and code in this repository are available under open source license.
+
+Copyright 2021 Muhammad Wasi Naseer
+
+Creative Commons Attribution 4.0 International License (CC BY 4.0)
+
+http://creativecommons.org/licenses/by/4.0
